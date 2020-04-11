@@ -2,3 +2,22 @@ baseURL = "http://taylorburke.me/kfc/"
 languageCode = "en-us"
 title = "Kung Fu Coder"
 theme="hugo-theme-cactus-plus"
+googleAnalytics = "UA-90708884-2"
+
+[params]
+    # My information
+    author = "Taylor Burke"
+    description = "the art of coding"
+    bio = "web dev"
+    twitter = "codeWithJS"
+    copyright = "Taylor Burke"
+
+    # Tools 
+    enableRSS = true
+    enableSummary = true
+    enableGoogleAnalytics = true
+    enableTwitterCard = true
+
+[social]
+    twitter = "https://twitter.com/codeWithJS"
+    github = "https://github.com/TaylorBurke"
